@@ -1,2 +1,2 @@
 # Snake-Game-using-java
-A simple snake game made by using Java GUI Tools
+A simple snake game made by using Java GUI Tools : Swing and AWT
